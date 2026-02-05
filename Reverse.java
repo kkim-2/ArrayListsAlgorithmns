@@ -4,9 +4,9 @@ import java.util.*;
 public class Reverse {
     public static void main(String[] args) {
         ArrayList<String>arr = new ArrayList<String>();
-        arr.add("as");
-        arr.add("hi");
-        arr.add("you");
+        arr.add("DoOkIe");
+        arr.add("Is");
+        arr.add("KIaNa");
         System.out.println();
         System.out.println(reverseThis(arr));
     }
