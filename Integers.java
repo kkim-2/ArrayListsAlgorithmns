@@ -10,6 +10,7 @@ public class Integers {
         System.out.println(Doubles(lists));
     }
     public static ArrayList<Integer>Doubles(ArrayList<Integer>list){
+            
             for(int i=0;i<list.size();i++){
                 list.add(list.get(i));
             }
